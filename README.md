@@ -28,4 +28,5 @@ casteaching.video.destroy(1)
 # Author & Project Info
 
 - Daniel Audí Bielsa
-- Github: https://github.com/daudi44/casteaching/tree/api
+- Github Casteaching global project: https://github.com/daudi44/casteaching/tree/api
+- Github Package: https://github.com/daudi44/casteaching_package_daudi#readme

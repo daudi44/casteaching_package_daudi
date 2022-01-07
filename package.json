@@ -1,14 +1,26 @@
 {
   "name": "@daudi/casteachingdani",
-  "version": "1.0.5",
-  "description": "JS package for casteaching API",
+  "version": "1.0.6",
+  "description": "JS Package created for Casteaching project, you can check it on my Github profile",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daudi44/casteaching_package_daudi.git"
+  },
+  "keywords": [
+    "Casteaching",
+    "Axios",
+    "Api",
+    "Rest"
+  ],
   "author": "Daniel Audí Bielsa",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.24.0"
-  }
+  "bugs": {
+    "url": "https://github.com/daudi44/casteaching_package_daudi/issues"
+  },
+  "homepage": "https://github.com/daudi44/casteaching_package_daudi#readme"
 }
